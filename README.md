@@ -103,3 +103,4 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 # Materiały
 
 - https://virtualenvwrapper.readthedocs.io/en/latest/
+-- test
